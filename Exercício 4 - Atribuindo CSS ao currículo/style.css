@@ -1,0 +1,26 @@
+#nome{
+    text-align: center;
+    color:blue
+}
+
+#foto{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.info{
+    background-color:powderblue;
+}
+
+.tituloverde{
+    background-color: aquamarine;
+}
+
+.minhadiv{
+    background-color: gainsboro;
+    text-align: center;
+    border-style: dashed;
+}
+
+
